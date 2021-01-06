@@ -1,5 +1,5 @@
 # App
-<img alt="logo" src="https://github.com/nico-14/randompass-reactnodegui/raw/master/assets/demo.png" height="500" />
+<img alt="logo" src="https://github.com/nico-14/randompass-reactnodegui/raw/master/assets/demo.png" height="300" />
 
 # react-nodegui-starter
 

@@ -1,8 +1,9 @@
+# App
+<img alt="logo" src="https://github.com/nico-14/randompass-reactnodegui/raw/master/assets/demo.png" height="300" />
+
 # react-nodegui-starter
 
 **Clone and run for a quick way to see React NodeGui in action.**
-
-<img alt="logo" src="https://github.com/nico-14/randompass-reactnodegui/raw/master/assets/demo.png" height="500" />
 
 ## To Use
 
